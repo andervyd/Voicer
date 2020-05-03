@@ -1,0 +1,20 @@
+.button
+{
+    -fx-background-color: red;
+    -fx-text-fill: white;
+}
+.background
+{
+    -fx-background-color: #0096ff;
+}
+.label
+{
+    -fx-font-size: 14;
+    -fx-text-fill: white;
+}
+.slider
+{
+    -fx-fill: red;
+}
+
+
