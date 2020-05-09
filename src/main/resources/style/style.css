@@ -3,15 +3,19 @@
     -fx-background-color: red;
     -fx-text-fill: white;
 }
+
 .background
 {
-    -fx-background-color: #0096ff;
+    -fx-background-color: #00b7ff;
+    /*-fx-background-image: url('/images/oblozhka.jpg');*/
 }
+
 .label
 {
     -fx-font-size: 14;
-    -fx-text-fill: white;
+    -fx-text-fill: black;
 }
+
 .slider
 {
     -fx-fill: red;
